@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/muhammad-diva-alfahrizy-1422ba208">
+  <a href="https://www.linkedin.com/in/al-fay/">
     <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -524,7 +524,7 @@ Translated complex business requirements into practical software solutions that 
 <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/muhammad-diva-alfahrizy-1422ba208">
+<a href="https://www.linkedin.com/in/al-fay/">
 <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
