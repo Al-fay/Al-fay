@@ -493,6 +493,22 @@ Translated complex business requirements into practical software solutions that 
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Al-fay/Al-fay/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>My contribution activity over the past year</i>
+</p>
+
+---
+
 # 🤝 Let's Connect
 
 <p align="center">
@@ -514,6 +530,8 @@ Translated complex business requirements into practical software solutions that 
 </a>
 
 </p>
+
+---
 
 <br />
 
